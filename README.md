@@ -5,7 +5,7 @@ Simple operating system
 
 | Task                                         |
 |----------------------------------------------|
-| ⬜ Set up a cross-compiler for x86 (i686-elf-gcc)              |
+| ✅ Set up a cross-compiler for x86 (i686-elf-gcc)              |
 | ⬜ Configure a build system with Make/CMake                    |
 | ⬜ Use QEMU for emulation and testing                         |
 | ⬜ Create basic disk image generation                         |
