@@ -36,3 +36,6 @@ src/%.o: src/%.s
 # Clean build files
 clean:
 	rm -f $(TARGET) src/*.o
+
+run:
+	qemu-system-i386 -kernel kernel.elf
