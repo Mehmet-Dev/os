@@ -14,7 +14,7 @@ Simple operating system
 
 | Task                                         |
 |----------------------------------------------|
-| ⬜ Write a 512-byte boot sector in pure assembly              |
+| ✅ Write a 512-byte boot sector in pure assembly              |
 | ⬜ Load second-stage code or kernel from disk                 |
 | ⬜ Switch from 16-bit real mode to 32-bit protected mode      |
 | ⬜ Set up Global Descriptor Table (GDT)                       |
