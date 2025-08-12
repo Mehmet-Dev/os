@@ -1,0 +1,35 @@
+# Ignore object files and compiled binaries
+*.o
+*.obj
+*.elf
+*.bin
+*.iso
+
+# Ignore dependency files
+*.d
+
+# Ignore build directories
+/build/
+build/
+
+# Ignore cross-compiler output (if built locally)
+cross/
+
+# Ignore temporary editor/IDE files
+*~
+*.swp
+*.swo
+*.tmp
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+
+# Ignore QEMU log files
+qemu.log
